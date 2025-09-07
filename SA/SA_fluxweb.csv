@@ -1,0 +1,17 @@
+﻿trogroup,types,meanB,bodymass,loss.type,meta_type
+SedDet,detritus,1.000 ,0.000 ,detritus,Other
+WatDeT,detritus,1.000 ,0.000 ,detritus,Other
+SA,basal,2331.500 ,0.000 ,plant,Invertebrates
+DQWZ,basal,0.901 ,0.000 ,plant,Invertebrates
+Phy,phyto,0.802 ,0.000 ,plant,Invertebrates
+Zooplankton,phyto,0.079 ,0.024 ,animals,Invertebrates
+Bivalves,benthos,49.573 ,0.300 ,animals,Invertebrates
+Gastropods,benthos,1.838 ,0.198 ,animals,Invertebrates
+Other craustaceans,benthos,4.552 ,0.795 ,animals,Invertebrates
+Crabs,benthos,13.520 ,1.062 ,animals,Invertebrates
+Polychaetes,benthos,3.275 ,0.032 ,animals,Invertebrates
+Shrimps,benthos,0.257 ,0.318 ,animals,Invertebrates
+Planiliza haematocheila,fish,0.010 ,42.817 ,animals,Ectotherm vertebrates
+Carassius auratus,fish,0.105 ,35.524 ,animals,Ectotherm vertebrates
+Eucyclogobiusn ewberryi,fish,0.012 ,17.597 ,animals,Ectotherm vertebrates
+Lateolabrax japonicus,fish,0.202 ,17.540 ,animals,Ectotherm vertebrates

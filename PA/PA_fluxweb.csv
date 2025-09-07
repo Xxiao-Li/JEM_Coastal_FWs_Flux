@@ -1,0 +1,14 @@
+trogroup,types,meanB,bodymass,loss.type,meta_type
+POM,detritus,1,0,detritus,Other
+SOM,detritus,1,0,detritus,Other
+Phragmites australis,basal,1679.708,0,plant,Invertebrates
+microphytobenthos,basal,0.509,0,plant,Invertebrates
+phytoplankton,phyto,0.642,0,plant,Invertebrates
+zooplankton,phyto,0.452,0.006,animals,Invertebrates
+insects,benthos,0.19,0.01,animals,Invertebrates
+other crustaceans,benthos,0.228,0.012,animals,Invertebrates
+gastropods,benthos,0.13,0.015,animals,Invertebrates
+crabs,benthos,0.71,0.8,animals,Invertebrates
+shrimp,benthos,0.09,0.033,animals,Invertebrates
+Planiliza haematocheila,fish ,0.003,7.254,animals,Ectotherm vertebrates
+Synechogobius hasta,fish,0.009,4.717,animals,Ectotherm vertebrates

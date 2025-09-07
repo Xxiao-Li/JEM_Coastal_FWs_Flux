@@ -1,0 +1,17 @@
+﻿,SedDet,WatDet,SG,Microphy,Phy,Zooplankton,Bivalves,Gastropods,Other craustaceans,Crabs,Polychaetes,Shrimps,Planiliza haematocheila,Carassius auratus,Eucyclogobiusn ewberryi,Lateolabrax japonicus
+SedDet,,,,,,,,0.4422,0.59134,0.18003,,,0.13134,,,
+WatDet,,,,,,0.53617,0.58807,,0.40866,0.12398,0.19765,0.34065,,,,
+SG,,,,,,,,0.26376,,0.13732,,,0.12426,0.26314,,
+Microphy,,,,,,,,0.29403,,0.1449,0.21241,,0.12676,0.27287,,
+Phy,,,,,,0.46383,0.41193,,,,0.18878,0.33134,,0.23613,,
+Zooplankton,,,,,,,,,,,0.18252,0.32801,,0.22786,0.13611,
+Bivalves,,,,,,,,,,0.13206,,,0.12289,,0.16538,
+Gastropods,,,,,,,,,,0.1246,,,0.12295,,,
+Other craustaceans,,,,,,,,,,0.1571,0.21863,,0.12834,,,
+Crabs,,,,,,,,,,,,,0.12182,,0.14946,0.22794
+Polychaetes,,,,,,,,,,,,,0.12165,,0.14938,
+Shrimps,,,,,,,,,,,,,,,0.16174,0.25773
+Planiliza haematocheila,,,,,,,,,,,,,,,0.11166,0.13987
+Carassius auratus,,,,,,,,,,,,,,,0.12627,0.16995
+Eucyclogobiusn ewberryi,,,,,,,,,,,,,,,,0.20451
+Lateolabrax japonicus,,,,,,,,,,,,,,,,

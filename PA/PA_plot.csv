@@ -1,0 +1,14 @@
+trogroup,types,meanB,bodymass,loss.type,meta_type
+POM,detritus,1,0,detritus,Other
+SOM,detritus,1,0,detritus,Other
+Pa,basal,1679.708,0,plant,Invertebrates
+Mic,basal,0.509,0,plant,Invertebrates
+Phy,phyto,0.642,0,plant,Invertebrates
+Zoo,phyto,0.452,0.006,animals,Invertebrates
+Ins,benthos,0.19,0.01,animals,Invertebrates
+OtC,benthos,0.228,0.012,animals,Invertebrates
+Gas,benthos,0.13,0.015,animals,Invertebrates
+Cra,benthos,0.71,0.8,animals,Invertebrates
+Shr,benthos,0.09,0.033,animals,Invertebrates
+Ph,fish ,0.003,7.254,animals,Ectotherm vertebrates
+Sh,fish,0.009,4.717,animals,Ectotherm vertebrates
